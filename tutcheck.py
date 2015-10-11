@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # TutCheck alerts when a website changes
 
 # Copyright (C) 2014  Sebastian Müller
