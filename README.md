@@ -1,5 +1,7 @@
 TutCheck
 ========
+Fork of the famous TutCheck (https://github.com/sbmueller/TutCheck) by sbmueller.
+This fork is aimed to run smoothly under Linux/Ubuntu.
 
 ## Summary
 
